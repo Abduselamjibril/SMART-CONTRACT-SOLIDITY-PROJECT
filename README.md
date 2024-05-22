@@ -1,7 +1,7 @@
 
 ADAMA SCIENCE AND TECHNOLOGY UNIVERSITY
 SCHOOL OF ELECTRICAL ENGINEERING AND COMPUTING
-Department of software engineering
+Department of Software Engineering
 Course Title: BLOCKCHAIN AND CRYPTOCURRENCY
 GROUP ASSIGNMENT 
 Section 2 
@@ -9,7 +9,7 @@ Team Members
 Name 					ID 
 1. ABDUSELAM JIBRIL………………..............UGR/23323/13 
 2. DAGIM BEKELE ……………………………………………......UGR /23590/13
-3. SAMUEL TEKLEMARIAM………………………………......UGR/23591/13
+3. SAMUEL TEKLEMARIAM………………………………......UGR/22734/13
 4. REGINA GIOVANNI.....................UGR/23493/23
 5. AELAF BIRUK.........................UGR/23515/13
 SUBMISSION date  23/05/24
